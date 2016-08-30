@@ -18,7 +18,7 @@ Windows 10 (Anniversary Update), Visual Studio 2015 (Enterprise, Update 3), Micr
 Developed on Windows 10 (Anniversary Update), Visual Studio 2015 (Enterprise, Update 3) and Microsoft Bot Framework v3.0 Template.
 How to get envorpnment, please refer [Environment for Bot Framework development](http://qiita.com/annie/items/edc26c0ee9603e84a2e4#bot-framework-%E3%82%92%E4%BD%BF%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83).
 
-##利用方法 | How to User
+##利用方法 | How to Use
 ダウンロード後、Visual Studio のソリューションファイル(EmotionBot.sln)を開き、ビルドを行って必要なライブラリの読み込みを行ってください。
 48行目の emotionApiKey に Emotion Api のサブスクリプションキーをコピーします。
 Webアプリとして起動したら、Bot Framework Channel Emulator でアクセスします。
