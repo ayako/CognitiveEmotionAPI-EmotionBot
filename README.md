@@ -4,10 +4,11 @@
 
 [Microsoft Cognitive Services Emotion API](https://www.microsoft.com/cognitive-services/en-us/emotion-api) および [Microsoft Bot Framework v3.0](https://www.botframework.com/) による 表情判定BOT サンプルです。
 動作には Emotion API のサブスクリプションが必要です。
+**※こちらは アプリケーションサンプルです。ご自身の責任の下ご利用をお願いいたします。**
 
 This is emotion auto-detect sample bot by [Microsoft Cognitive Services Emotion API](https://www.microsoft.com/cognitive-services/en-us/emotion-api) and [Microsoft Bot Framework v3.0](https://www.botframework.com/)
 Emotion API Subscription needed to make this work.
-
+**THIS IS SAMPLE and please use this for your infomation and on your own responsibility.**
 
 ##使用環境 | Environment
 
