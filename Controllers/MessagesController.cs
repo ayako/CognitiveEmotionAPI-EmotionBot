@@ -68,7 +68,7 @@ namespace EmotionBot
             if (emotionResult != null)
             {
                 //表情スコアを取得
-                Scores emotionScores = emotionResult[0].Scores;
+                var emotionScores = emotionResult[0].Scores;
 
                 //取得したスコアを KeyValuePair に代入、スコア数値の大きい順に並び替える
                 IEnumerable<KeyValuePair<string, float>> emotionList = new Dictionary<string, float>()
